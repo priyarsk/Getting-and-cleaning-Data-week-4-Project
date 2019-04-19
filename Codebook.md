@@ -1,19 +1,29 @@
 This code book contains the Tidy Data set Description:
 
 Subject ID: The ID of the Subject
+
 Activity Id: The Type of activity ID
 
 Only all the variables estimated from mean and standard deviation in the tidy set were kept.
+
 mean(): Mean value
+
 std(): Standard deviation
+
 The data were averaged based on subject and activity group..
 
 Activity Labels has 6 types as listed below:
+
 WALKING
+
 WALKING_UPSTAIRS
+
 WALKING_DOWNSTAIRS
+
 SITTING
+
 STANDING
+
 LAYING
 
 Measurements:
@@ -61,4 +71,5 @@ Measurements:
 [81] "fBodyBodyGyroJerkMag-meanFreq()" "activityType"  
 
 variable units
+
 Activity variable is factor type. Subject variable is integer type. All the other variables are numeric type.
