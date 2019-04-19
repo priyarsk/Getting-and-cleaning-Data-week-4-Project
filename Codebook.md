@@ -15,15 +15,10 @@ The data were averaged based on subject and activity group..
 Activity Labels has 6 types as listed below:
 
 WALKING
-
 WALKING_UPSTAIRS
-
 WALKING_DOWNSTAIRS
-
 SITTING
-
 STANDING
-
 LAYING
 
 Measurements:
