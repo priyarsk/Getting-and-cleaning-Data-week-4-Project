@@ -12,16 +12,21 @@ std(): Standard deviation
 
 The data were averaged based on subject and activity group..
 
-Activity Labels has 6 types as listed below:
+ACTIVITY LABELS has 6 types as listed below:
 
 WALKING
+
 WALKING_UPSTAIRS
+
 WALKING_DOWNSTAIRS
+
 SITTING
+
 STANDING
+
 LAYING
 
-Measurements:
+MEASUREMENTS:
 
  [1] "subjectId"                       "activityId"                     
  [3] "tBodyAcc-mean()-X"               "tBodyAcc-mean()-Y"              
